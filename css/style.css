@@ -2555,7 +2555,7 @@ img.sub{
 		width: 80%;
 		}
 }
-@media (max-width: 640px)
+@media (max-width: 700px)
 {
 	.fir {
 		background: url(../images/ee.png) no-repeat 15px 0px;
@@ -3225,7 +3225,7 @@ img.sub{
 		padding: 10px 50px;
 		}
 }
-@media (max-width: 320px)
+@media (max-width: 480px)
 {
 	.callbacks_container {
 		width: 100%;
