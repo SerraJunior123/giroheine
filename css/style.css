@@ -661,7 +661,7 @@ ul.callbacks_tabs.callbacks2_tabs.callbacks_here a:after{
 	display:block;
 	}
 .service-grid-text{
-	background:rgba(15, 28, 37, 0.43);
+	background:rgba(252, 92, 0, 0.925);
 	position: absolute;
 	top: 40%;
 	border-radius: 5px;
@@ -676,7 +676,7 @@ ul.callbacks_tabs.callbacks2_tabs.callbacks_here a:after{
 	padding: 1em 0 1.5em;
 	margin:0;
 	font-size: 20px;
-	background:rgba(15, 28, 37, 0.74);
+	background:rgba(15, 28, 37, 0.84);
 	border-top-left-radius: 5px;
 	-webkit-border-top-left-radius: 5px;
 	-moz-border-top-left-radius: 5px;
@@ -1920,7 +1920,7 @@ img.sub{
 	display: block;
 	overflow: hidden;
 	float: right;
-	opacity: 0;
+	zity: 0;
 	-moz-opacity: 0;
 	filter: alpha(opacity=0);
 }
